@@ -89,7 +89,7 @@ namespace QuizData
 
                 if (continueInput != "oui")
                 {
-                    continueQuiz = false;
+                    continueQuiz = true;
                 }
 
                 Console.WriteLine();
